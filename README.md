@@ -1,7 +1,6 @@
 # Simple C Line Editor
 
 ## Team Information
-* **Team Name:** [Insert Team Name]
 * **Team Members:**
   * [KIRAN] 
   * [MANOJ RATHOD]
